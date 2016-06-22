@@ -27,6 +27,7 @@ h2{
 
 color: #4aaaa5;
 background:#ffffff;
+padding: 20%
 }
 
 footer{
@@ -42,7 +43,7 @@ footer{
 
 section{
 
-	background: #ffffff
+	background: #ffffff;
 	padding: 10px 0;
 	color: #999999;
 	margin: 0;
